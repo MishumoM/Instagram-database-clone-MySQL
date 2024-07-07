@@ -1,4 +1,8 @@
+--Create database;
+
 CREATE DATABASE ig_clone;
+
+--Create tables;
 
 
 CREATE TABLE users (
