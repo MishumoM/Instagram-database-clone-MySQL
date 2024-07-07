@@ -1,6 +1,6 @@
 --SQL queries for analytics challenges;
 
-** Challenge 1: We want to reward our users who have been around the longest.....Find 5 oldest users**
+-- Challenge 1: We want to reward our users who have been around the longest.....Find 5 oldest users**
 
 
 SELECT * FROM users
