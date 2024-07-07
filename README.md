@@ -1,4 +1,4 @@
-# Instagram-database-clone-MySQL
+# Instagram-database-clone-MySQL Project
 
 During my course, The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by Colt Steele, I focused on creating a relational database schema similar to an Instagram platform. This project includes tables for users, photos, comments, likes, follows, tags, and photo_tags. I implemented SQL queries to tackle various analytics challenges, such as identifying the oldest users, determining popular registration days, finding inactive users, analyzing popular hashtags, and more, to effectively manage and analyze the data.
 
