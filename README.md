@@ -22,7 +22,7 @@ During my course, The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by
 **photo_tags**: Defines a many-to-many relationship between photos and tags.
 
 
-**SQL Challenges:**
+**SQL quereis for analytics challenges:**
 ---
 1.We want to reward our users who have been around the longest.....Find 5 oldest users
 
@@ -43,4 +43,4 @@ During my course, The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by
 
 ***Schema:*** Contains the SQL schema for database setup and management.
 
-***Challenges:*** Stores SQL queries for various analytical challenges.
+***Challenges:*** SQL queries for various analytics challenges.
