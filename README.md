@@ -22,7 +22,7 @@ During my course, The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by
 **photo_tags**: Defines a many-to-many relationship between photos and tags.
 
 
-**SQL quereis for analytics challenges:**
+**SQL queries for analytics challenges:**
 ---
 1.We want to reward our users who have been around the longest.....Find 5 oldest users
 
